@@ -40,7 +40,10 @@ Library-Management-System/
 ## Database Schema
 
 ```md
-<img width="893" height="550" alt="image" src="https://github.com/user-attachments/assets/7dddeb60-8563-4229-95c9-e8496ca95741" />
+## Database Schema
+
+![Database Schema](https://github.com/user-attachments/assets/7dddeb60-8563-4229-95c9-e8496ca95741)
+
 
 ```
 
