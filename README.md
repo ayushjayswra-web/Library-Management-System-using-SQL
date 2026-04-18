@@ -128,6 +128,6 @@ Library-Management-System/
 
 ## Author
 
-**Zero Analyst**
+**Ayush Jayswar**
 
 This project demonstrates practical SQL skills required for database management and data analysis.
