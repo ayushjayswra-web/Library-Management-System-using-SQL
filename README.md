@@ -39,13 +39,11 @@ Library-Management-System/
 
 ## Database Schema
 
-```md
-## Database Schema
-
 ![Database Schema](https://github.com/user-attachments/assets/7dddeb60-8563-4229-95c9-e8496ca95741)
 
 
-```
+
+
 
 ---
 
