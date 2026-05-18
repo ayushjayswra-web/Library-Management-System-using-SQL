@@ -181,7 +181,7 @@ WHERE reg_date >= CURRENT_DATE - INTERVAL 180 DAY;
 
 **Ayush Jayswar**  
 MCA (AI/ML) · LNCT University, Bhopal  
-📧 Ayushjayswra@gmail.com  
+📧 ayushjayswra@gmail.com  
 🔗 [GitHub](https://github.com/ayushjayswar)  
 
 > This project demonstrates practical SQL skills required for database management and data analysis roles — including schema design, CRUD, multi-table JOINs, aggregate reporting, and business intelligence queries.
